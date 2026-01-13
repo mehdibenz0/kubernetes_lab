@@ -1,4 +1,4 @@
-# Lab 05 : Kubernetes
+# Lab : Kubernetes
 
 - Work in a group of 2 students.
 - Duration of this lab is 4 periods.
